@@ -1,2 +1,4 @@
-# UTF_Conversion
-Convert Text into UTF-8, UTF-16, UTF-32, and ASCII Encodings
+# C# codes
+
+
+C# codes Studied in 5th Semester in University (	CS382/CS382L )
